@@ -1,0 +1,13 @@
+#contacts{
+	width: 50vh;
+}
+
+body {
+	flex-direction: column;
+}
+
+#inside {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
